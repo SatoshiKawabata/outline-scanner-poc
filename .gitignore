@@ -1,0 +1,8 @@
+generate_raster/.venv/
+
+# Generated rasters (reproducible via generate_raster.py)
+test-data/**/raster/*.jpg
+test-data/**/raster/*.jpeg
+test-data/**/raster/*.png
+test-data/**/raster/*.tif
+test-data/**/raster/*.tiff
